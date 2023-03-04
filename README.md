@@ -1,4 +1,7 @@
 # Screen Translator
+
+![](assets/input_vs_output.png)
+
 - Image translation from Chinese to English.
 - Mainly for aiding understanding during presentations, when slides are in Chinese.
 
